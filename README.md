@@ -29,7 +29,17 @@ O sistema permite que o usuário:
 
 ## Estrutura do Projeto
 
-ProjetoCofrinho/ ├── src/ │ ├── Cofrinho.java │ ├── Moeda.java │ ├── Real.java │ ├── Dolar.java │ ├── Euro.java │ └── Principal.java └── README.md
+ProjetoCofrinho/
+│
+├── src/
+│   ├── Cofrinho.java
+│   ├── Moeda.java
+│   ├── Real.java
+│   ├── Dolar.java
+│   ├── Euro.java
+│   └── Principal.java
+│
+└── README.md
 
 ## Como Rodar o Projeto Localmente
 
