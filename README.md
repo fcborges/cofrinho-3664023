@@ -35,8 +35,8 @@ ProjetoCofrinho/ │ ├── src/ │ ├── Cofrinho.java │ ├── Mo
 
 1. **Clone o repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd ProjetoCofrinho
+   git clone https://github.com/fcborges/cofrinho-3664023.git
+   cd cofrinho-3664023
 
 Importe o projeto para sua IDE:
 
