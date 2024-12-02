@@ -1,8 +1,12 @@
-<details> <summary><b>Conteúdo do README.md</b></summary>
+ <summary><b>Conteúdo do README.md</b></summary>
+
+</br>
 
 # Cofrinho de Moedas em Java
 
 Este projeto implementa um sistema simples de gerenciamento de um cofrinho virtual, utilizando conceitos de **Programação Orientada a Objetos (POO)**, incluindo **herança**, **polimorfismo** e **tratamento de exceções**.
+
+<br/>
 
 ## Funcionalidades
 
@@ -13,16 +17,19 @@ O sistema permite que o usuário:
 3. **Listar moedas:** Mostra todas as moedas presentes no cofrinho.
 4. **Calcular o total em Reais:** Converte todas as moedas para **Real (BRL)** e exibe o total acumulado.
 
+<br/>
+
 ## Tecnologias Utilizadas
 
 - **Linguagem:** Java
 - **IDE Recomendada:** Eclipse, IntelliJ IDEA ou qualquer IDE de sua preferência
 - **Estrutura de Dados:** ArrayList para armazenar as moedas
 
+</br>
+
 ## Estrutura do Projeto
 
-ProjetoCofrinho/ │ ├── src/ │ ├── Cofrinho.java │ ├── Moeda.java │ ├── Real.java │ ├── Dolar.java │ ├── Euro.java │ └── Principal.java │ └── README.md
-
+ProjetoCofrinho/ ├── src/ │ ├── Cofrinho.java │ ├── Moeda.java │ ├── Real.java │ ├── Dolar.java │ ├── Euro.java │ └── Principal.java └── README.md
 
 ## Como Rodar o Projeto Localmente
 
@@ -35,8 +42,8 @@ ProjetoCofrinho/ │ ├── src/ │ ├── Cofrinho.java │ ├── Mo
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/fcborges/cofrinho-3664023.git
-   cd cofrinho-3664023
+   $ git clone https://github.com/fcborges/cofrinho-3664023.git
+   $ cd cofrinho-3664023
 
 Importe o projeto para sua IDE:
 
@@ -53,11 +60,24 @@ Utilize o menu no terminal/console para interagir com o sistema. Insira valores 
 
 Possíveis Problemas
 Valores decimais: Certifique-se de usar um ponto (.) como separador decimal (ex: 2.50 para dois reais e cinquenta centavos).
+
 Entradas inválidas: O programa trata erros de entrada (ex: texto em vez de números), exibindo mensagens de erro e permitindo novas tentativas.
 
-Autor
-[Seu Nome]
-Especialista em Engenharia de Software
-[Seu Email ou LinkedIn]
 
-</details>
+Fatima Carvalho Borges
+
+Especialista em Engenharia de Software
+
+fatimacarvalhob@gmail.com
+
+https://www.linkedin.com/in/fcborges/
+
+
+---
+
+Essa estrutura usa `plaintext` para formatar a árvore de diretórios, garantindo que ela apareça corretamente no arquivo Markdown. Se precisar de mais alguma alteração ou outra funcionalidade, estou à disposição! 😊
+
+
+
+
+![alt text](image.png)
